@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://sampark_suchi:sampark_suchi@cluster0.8jpoyal.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
